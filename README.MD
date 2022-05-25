@@ -1,3 +1,4 @@
 Игра крестики-нолики на чистом JS.
 
-GitHabPages:
+GitHabPages: https://mecheriabdelnour.github.io/tic-tac-toe/
+ 
